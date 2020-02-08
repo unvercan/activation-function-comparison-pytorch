@@ -1,9 +1,9 @@
 # pytorch-activation-functions-comparison
-- Comparison of common activation functions in PyTorch using MNIST dataset
+- A comparison of common activation functions in PyTorch using MNIST dataset
 
-Activation functions:
-- Relu,
-- Sigmoid,
-- Tanh.
+## Activation functions:
+- Relu
+- Sigmoid
+- Tanh
 
-Best result: Relu
+## Best result: Relu
